@@ -1,0 +1,28 @@
+body {
+  background: rgb(250, 208, 208);
+}
+.text1 {
+  font-family: 'Open Sans';
+  line-height: 30px;
+  font-size: 20px;
+}
+.text2 {
+  text-decoration: line-through double 0.2px;
+  font-family: Handjet;
+  font-weight: 600;
+}
+.text3 {
+  font-family: "Victor Mono", serif;
+  font-style: italic;
+  text-align: center;
+}
+.text4 {
+  text-decoration:overline wavy 0.1px;
+  font-family: Oswald;
+  word-spacing: 30px;
+}
+.text5 {
+  font-family: Raleway;
+  letter-spacing: 5px;
+text-decoration: underline 5px;
+}
